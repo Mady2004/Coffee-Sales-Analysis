@@ -1,0 +1,1204 @@
+date,cash_type,money,coffee_name
+2025-01-02,card,25.96,Cortado
+2025-01-02,card,35.76,Cappuccino
+2025-01-02,card,30.86,Americano with Milk
+2025-01-02,card,25.96,Americano
+2025-01-02,card,25.96,Cortado
+2025-01-02,card,35.76,Hot Chocolate
+2025-01-02,card,35.76,Cocoa
+2025-01-02,card,35.76,Cocoa
+2025-01-02,card,30.86,Americano with Milk
+2025-01-03,card,35.76,Latte
+2025-01-03,card,25.96,Americano
+2025-01-03,card,25.96,Americano
+2025-01-03,card,35.76,Cappuccino
+2025-01-03,card,30.86,Americano with Milk
+2025-01-03,card,25.96,Cortado
+2025-01-03,card,30.86,Americano with Milk
+2025-01-04,card,25.96,Cortado
+2025-01-04,card,35.76,Cappuccino
+2025-01-04,card,25.96,Americano
+2025-01-04,card,35.76,Cocoa
+2025-01-04,card,35.76,Cappuccino
+2025-01-04,card,35.76,Cappuccino
+2025-01-04,card,25.96,Cortado
+2025-01-04,card,25.96,Americano
+2025-01-04,card,30.86,Americano with Milk
+2025-01-04,card,35.76,Latte
+2025-01-05,card,30.86,Americano with Milk
+2025-01-05,card,35.76,Latte
+2025-01-05,card,30.86,Americano with Milk
+2025-01-06,card,25.96,Americano
+2025-01-07,card,35.76,Cappuccino
+2025-01-07,card,35.76,Cocoa
+2025-01-07,card,35.76,Cocoa
+2025-01-08,card,30.86,Americano with Milk
+2025-01-08,card,35.76,Latte
+2025-01-08,card,25.96,Cortado
+2025-01-08,card,35.76,Cappuccino
+2025-01-09,card,35.76,Latte
+2025-01-09,card,21.06,Espresso
+2025-01-09,card,25.96,Americano
+2025-01-09,card,35.76,Latte
+2025-01-09,card,30.86,Americano with Milk
+2025-01-09,card,25.96,Cortado
+2025-01-09,card,30.86,Americano with Milk
+2025-01-09,card,35.76,Latte
+2025-01-09,card,30.86,Americano with Milk
+2025-01-10,card,35.76,Hot Chocolate
+2025-01-10,card,30.86,Americano with Milk
+2025-01-10,card,30.86,Americano with Milk
+2025-01-10,card,35.76,Cappuccino
+2025-01-10,card,30.86,Americano with Milk
+2025-01-11,card,35.76,Cappuccino
+2025-01-11,card,25.96,Cortado
+2025-01-11,card,30.86,Americano with Milk
+2025-01-11,card,25.96,Cortado
+2025-01-11,card,30.86,Americano with Milk
+2025-01-11,card,35.76,Hot Chocolate
+2025-01-11,card,25.96,Americano
+2025-01-11,card,30.86,Americano with Milk
+2025-01-11,card,35.76,Latte
+2025-01-11,card,35.76,Latte
+2025-01-11,card,35.76,Latte
+2025-01-11,card,35.76,Latte
+2025-01-11,card,30.86,Americano with Milk
+2025-01-11,card,35.76,Latte
+2025-01-11,card,35.76,Latte
+2025-01-12,card,25.96,Americano
+2025-01-12,card,30.86,Americano with Milk
+2025-01-12,card,30.86,Americano with Milk
+2025-01-12,card,30.86,Americano with Milk
+2025-01-12,card,35.76,Hot Chocolate
+2025-01-13,card,30.86,Americano with Milk
+2025-01-13,card,25.96,Cortado
+2025-01-13,card,35.76,Latte
+2025-01-13,card,35.76,Latte
+2025-01-13,card,35.76,Cappuccino
+2025-01-13,card,35.76,Latte
+2025-01-13,card,21.06,Espresso
+2025-01-13,card,30.86,Americano with Milk
+2025-01-14,card,35.76,Latte
+2025-01-14,card,35.76,Latte
+2025-01-14,card,25.96,Cortado
+2025-01-14,card,30.86,Americano with Milk
+2025-01-14,card,30.86,Americano with Milk
+2025-01-14,card,35.76,Latte
+2025-01-14,card,35.76,Cappuccino
+2025-01-14,card,30.86,Americano with Milk
+2025-01-15,card,25.96,Americano
+2025-01-15,card,35.76,Cappuccino
+2025-01-15,card,35.76,Latte
+2025-01-15,card,30.86,Americano with Milk
+2025-01-15,card,35.76,Latte
+2025-01-15,card,35.76,Cappuccino
+2025-01-15,card,35.76,Latte
+2025-01-15,card,35.76,Latte
+2025-01-15,card,35.76,Latte
+2025-01-15,card,35.76,Cappuccino
+2025-01-16,card,35.76,Latte
+2025-01-16,card,35.76,Latte
+2025-01-16,card,30.86,Americano with Milk
+2025-01-16,card,30.86,Americano with Milk
+2025-01-16,card,25.96,Cortado
+2025-01-16,card,35.76,Latte
+2025-01-16,card,35.76,Cappuccino
+2025-01-16,card,35.76,Hot Chocolate
+2025-01-16,card,25.96,Cortado
+2025-01-16,card,35.76,Hot Chocolate
+2025-01-17,card,35.76,Hot Chocolate
+2025-01-17,card,35.76,Cocoa
+2025-01-17,card,35.76,Hot Chocolate
+2025-01-17,card,35.76,Cocoa
+2025-01-17,card,35.76,Latte
+2025-01-17,card,30.86,Americano with Milk
+2025-01-17,card,30.86,Americano with Milk
+2025-01-17,card,35.76,Cocoa
+2025-01-17,card,35.76,Cappuccino
+2025-01-18,card,35.76,Hot Chocolate
+2025-01-18,card,35.76,Hot Chocolate
+2025-01-18,card,35.76,Latte
+2025-01-18,card,30.86,Americano with Milk
+2025-01-20,card,35.76,Latte
+2025-01-20,card,35.76,Cappuccino
+2025-01-20,card,35.76,Hot Chocolate
+2025-01-20,card,30.86,Americano with Milk
+2025-01-20,card,35.76,Cappuccino
+2025-01-20,card,25.96,Americano
+2025-01-20,card,25.96,Cortado
+2025-01-20,card,30.86,Americano with Milk
+2025-01-20,card,30.86,Americano with Milk
+2025-01-20,card,25.96,Cortado
+2025-01-21,card,25.96,Americano
+2025-01-21,card,35.76,Latte
+2025-01-21,card,35.76,Hot Chocolate
+2025-01-21,card,30.86,Americano with Milk
+2025-01-21,card,25.96,Cortado
+2025-01-21,card,35.76,Latte
+2025-01-21,card,25.96,Americano
+2025-01-21,card,35.76,Cocoa
+2025-01-22,card,35.76,Cappuccino
+2025-01-22,card,35.76,Latte
+2025-01-22,card,30.86,Americano with Milk
+2025-01-22,card,30.86,Americano with Milk
+2025-01-22,card,30.86,Americano with Milk
+2025-01-22,card,21.06,Espresso
+2025-01-22,card,35.76,Cocoa
+2025-01-24,card,25.96,Americano
+2025-01-24,card,35.76,Cappuccino
+2025-01-24,card,25.96,Cortado
+2025-01-24,card,35.76,Latte
+2025-01-24,card,35.76,Cocoa
+2025-01-24,card,35.76,Cocoa
+2025-01-24,card,35.76,Hot Chocolate
+2025-01-25,card,35.76,Cappuccino
+2025-01-25,card,35.76,Cappuccino
+2025-01-25,card,25.96,Americano
+2025-01-26,card,25.96,Americano
+2025-01-26,card,21.06,Espresso
+2025-01-27,card,25.96,Cortado
+2025-01-27,card,25.96,Americano
+2025-01-27,card,35.76,Cappuccino
+2025-01-27,card,30.86,Americano with Milk
+2025-01-27,card,30.86,Americano with Milk
+2025-01-27,card,25.96,Cortado
+2025-01-27,card,35.76,Latte
+2025-01-27,card,35.76,Latte
+2025-01-27,card,35.76,Latte
+2025-01-27,card,30.86,Americano with Milk
+2025-01-28,card,35.76,Cappuccino
+2025-01-28,card,35.76,Latte
+2025-01-28,card,25.96,Cortado
+2025-01-28,card,25.96,Americano
+2025-01-28,card,25.96,Americano
+2025-01-28,card,30.86,Americano with Milk
+2025-01-28,card,35.76,Latte
+2025-01-28,card,35.76,Cocoa
+2025-01-28,card,25.96,Americano
+2025-01-29,card,30.86,Americano with Milk
+2025-01-29,card,21.06,Espresso
+2025-01-29,card,25.96,Americano
+2025-01-29,card,25.96,Americano
+2025-01-30,card,35.76,Hot Chocolate
+2025-01-30,card,30.86,Americano with Milk
+2025-01-30,card,30.86,Americano with Milk
+2025-01-30,card,25.96,Cortado
+2025-01-30,card,25.96,Americano
+2025-01-30,card,35.76,Hot Chocolate
+2025-01-30,card,30.86,Americano with Milk
+2025-01-30,card,25.96,Cortado
+2025-01-30,card,30.86,Americano with Milk
+2025-01-31,card,35.76,Cappuccino
+2025-01-31,card,25.96,Americano
+2025-01-31,card,30.86,Americano with Milk
+2025-01-31,card,35.76,Cocoa
+2025-01-31,card,35.76,Cappuccino
+2025-01-31,card,30.86,Americano with Milk
+2025-01-31,card,35.76,Latte
+2025-01-31,card,35.76,Latte
+2025-01-31,card,35.76,Cappuccino
+2025-01-31,card,30.86,Americano with Milk
+2025-01-31,card,30.86,Americano with Milk
+2025-01-31,card,25.96,Americano
+2025-02-01,card,35.76,Cappuccino
+2025-02-01,card,30.86,Americano with Milk
+2025-02-01,card,25.96,Cortado
+2025-02-01,card,30.86,Americano with Milk
+2025-02-01,card,35.76,Cappuccino
+2025-02-01,card,30.86,Americano with Milk
+2025-02-01,card,35.76,Latte
+2025-02-01,card,25.96,Cortado
+2025-02-01,card,30.86,Americano with Milk
+2025-02-01,card,35.76,Cappuccino
+2025-02-01,card,30.86,Americano with Milk
+2025-02-02,card,35.76,Cappuccino
+2025-02-02,card,35.76,Cappuccino
+2025-02-02,card,35.76,Latte
+2025-02-02,card,35.76,Latte
+2025-02-02,card,30.86,Americano with Milk
+2025-02-02,card,35.76,Latte
+2025-02-02,card,35.76,Latte
+2025-02-03,card,35.76,Cappuccino
+2025-02-03,card,30.86,Americano with Milk
+2025-02-03,card,30.86,Americano with Milk
+2025-02-03,card,25.96,Americano
+2025-02-03,card,21.06,Espresso
+2025-02-03,card,25.96,Americano
+2025-02-03,card,35.76,Cappuccino
+2025-02-03,card,35.76,Cappuccino
+2025-02-03,card,35.76,Cappuccino
+2025-02-03,card,35.76,Latte
+2025-02-03,card,30.86,Americano with Milk
+2025-02-03,card,25.96,Americano
+2025-02-03,card,35.76,Hot Chocolate
+2025-02-03,card,35.76,Latte
+2025-02-03,card,35.76,Cocoa
+2025-02-03,card,30.86,Americano with Milk
+2025-02-03,card,30.86,Americano with Milk
+2025-02-03,card,25.96,Americano
+2025-02-03,card,30.86,Americano with Milk
+2025-02-03,card,25.96,Americano
+2025-02-03,card,30.86,Americano with Milk
+2025-02-03,card,35.76,Cocoa
+2025-02-03,card,35.76,Hot Chocolate
+2025-02-03,card,35.76,Latte
+2025-02-03,card,35.76,Latte
+2025-02-04,card,25.96,Cortado
+2025-02-04,card,30.86,Americano with Milk
+2025-02-04,card,25.96,Cortado
+2025-02-04,card,25.96,Americano
+2025-02-04,card,30.86,Americano with Milk
+2025-02-04,card,25.96,Americano
+2025-02-04,card,25.96,Americano
+2025-02-04,card,35.76,Cocoa
+2025-02-04,card,35.76,Cocoa
+2025-02-04,card,35.76,Cocoa
+2025-02-04,card,30.86,Americano with Milk
+2025-02-04,card,30.86,Americano with Milk
+2025-02-05,card,30.86,Americano with Milk
+2025-02-05,card,25.96,Americano
+2025-02-05,card,35.76,Hot Chocolate
+2025-02-05,card,30.86,Americano with Milk
+2025-02-05,card,21.06,Espresso
+2025-02-05,card,25.96,Americano
+2025-02-05,card,35.76,Cappuccino
+2025-02-05,card,35.76,Cappuccino
+2025-02-05,card,25.96,Americano
+2025-02-05,card,25.96,Americano
+2025-02-05,card,30.86,Americano with Milk
+2025-02-05,card,21.06,Espresso
+2025-02-05,card,30.86,Americano with Milk
+2025-02-05,card,35.76,Cappuccino
+2025-02-05,card,35.76,Cocoa
+2025-02-05,card,35.76,Hot Chocolate
+2025-02-05,card,35.76,Cappuccino
+2025-02-05,card,35.76,Cocoa
+2025-02-05,card,35.76,Latte
+2025-02-05,card,35.76,Cappuccino
+2025-02-05,card,35.76,Hot Chocolate
+2025-02-05,card,35.76,Cocoa
+2025-02-05,card,35.76,Latte
+2025-02-05,card,25.96,Americano
+2025-02-06,card,35.76,Cocoa
+2025-02-06,card,30.86,Americano with Milk
+2025-02-06,card,25.96,Americano
+2025-02-06,card,30.86,Americano with Milk
+2025-02-06,card,35.76,Cocoa
+2025-02-06,card,35.76,Cappuccino
+2025-02-06,card,21.06,Espresso
+2025-02-06,card,35.76,Cocoa
+2025-02-06,card,35.76,Cocoa
+2025-02-06,card,35.76,Latte
+2025-02-06,card,35.76,Cappuccino
+2025-02-06,card,35.76,Cocoa
+2025-02-07,card,25.96,Americano
+2025-02-07,card,35.76,Latte
+2025-02-07,card,30.86,Americano with Milk
+2025-02-07,card,30.86,Americano with Milk
+2025-02-07,card,35.76,Cocoa
+2025-02-07,card,30.86,Americano with Milk
+2025-02-07,card,25.96,Cortado
+2025-02-07,card,35.76,Cocoa
+2025-02-07,card,35.76,Hot Chocolate
+2025-02-07,card,35.76,Cocoa
+2025-02-07,card,35.76,Cocoa
+2025-02-07,card,25.96,Cortado
+2025-02-07,card,35.76,Cocoa
+2025-02-07,card,25.96,Cortado
+2025-02-07,card,25.96,Americano
+2025-02-07,card,35.76,Latte
+2025-02-08,cash,27.0,Irish whiskey with milk
+2025-02-08,cash,15.0,Tea
+2025-02-08,card,20.0,Espresso
+2025-02-08,card,30.0,Chocolate with coffee
+2025-02-08,cash,27.0,Chocolate with milk
+2025-02-08,card,33.0,Espresso
+2025-02-08,cash,29.0,Coffee with Irish whiskey
+2025-02-08,cash,15.0,Tea
+2025-02-08,card,25.96,Americano
+2025-02-08,card,25.96,Americano
+2025-02-08,card,25.96,Americano
+2025-02-08,card,25.96,Americano
+2025-02-08,card,25.96,Americano
+2025-02-08,card,25.96,Cortado
+2025-02-08,card,30.86,Americano with Milk
+2025-02-08,card,25.96,Americano
+2025-02-09,card,25.96,Cortado
+2025-02-09,cash,30.0,Chocolate with coffee
+2025-02-09,cash,27.0,Double espresso
+2025-02-09,cash,25.0,Americano with milk
+2025-02-09,card,20.0,Espresso
+2025-02-09,card,30.0,Cappuccino
+2025-02-09,card,32.0,Double espresso with milk
+2025-02-09,card,28.0,Double Irish whiskey
+2025-02-09,card,33.0,Latte
+2025-02-09,card,33.0,Latte
+2025-02-09,card,33.0,Latte
+2025-02-09,card,25.0,Americano with milk
+2025-02-09,card,28.0,Double Irish whiskey
+2025-02-09,card,15.0,Tea
+2025-02-09,card,28.0,Caramel with Irish whiskey
+2025-02-09,cash,29.0,Coffee with Irish whiskey
+2025-02-09,card,28.0,Caramel with Irish whiskey
+2025-02-09,card,35.76,Hot Chocolate
+2025-02-09,card,35.76,Latte
+2025-02-09,card,35.76,Cocoa
+2025-02-09,card,25.96,Americano
+2025-02-09,card,35.76,Latte
+2025-02-09,card,30.86,Americano with Milk
+2025-02-09,card,35.76,Cocoa
+2025-02-09,card,35.76,Cocoa
+2025-02-10,card,25.96,Americano
+2025-02-10,card,35.76,Latte
+2025-02-10,card,30.86,Americano with Milk
+2025-02-10,card,25.96,Americano
+2025-02-10,card,35.76,Cocoa
+2025-02-10,card,35.76,Hot Chocolate
+2025-02-10,card,35.76,Latte
+2025-02-10,card,30.86,Americano with Milk
+2025-02-10,card,35.76,Cappuccino
+2025-02-10,card,35.76,Cocoa
+2025-02-10,card,35.76,Cocoa
+2025-02-10,card,35.76,Latte
+2025-02-10,card,35.76,Latte
+2025-02-10,card,25.96,Americano
+2025-02-10,card,25.96,Americano
+2025-02-10,card,25.96,Americano
+2025-02-10,card,30.86,Americano with Milk
+2025-02-10,card,35.76,Cocoa
+2025-02-10,card,30.86,Americano with Milk
+2025-02-10,card,25.96,Americano
+2025-02-10,card,25.96,Americano
+2025-02-10,cash,27.0,Chocolate with milk
+2025-02-10,cash,25.0,Americano
+2025-02-10,cash,25.0,Americano
+2025-02-11,card,30.86,Americano with Milk
+2025-02-11,card,15.0,Tea
+2025-02-11,card,35.76,Cocoa
+2025-02-11,card,35.76,Latte
+2025-02-11,card,25.96,Americano
+2025-02-11,card,30.86,Americano with Milk
+2025-02-11,card,30.86,Americano with Milk
+2025-02-11,card,35.76,Latte
+2025-02-11,card,35.76,Hot Chocolate
+2025-02-11,card,35.76,Cocoa
+2025-02-11,card,30.86,Americano with Milk
+2025-02-11,card,25.96,Americano
+2025-02-11,card,25.96,Americano
+2025-02-11,card,21.06,Espresso
+2025-02-11,card,30.86,Americano with Milk
+2025-02-11,card,25.0,Americano
+2025-02-12,card,30.86,Americano with Milk
+2025-02-12,card,25.96,Americano
+2025-02-12,card,25.96,Americano
+2025-02-12,card,25.96,Americano
+2025-02-12,card,35.76,Hot Chocolate
+2025-02-12,card,35.76,Cappuccino
+2025-02-12,card,25.96,Americano
+2025-02-12,card,35.76,Cappuccino
+2025-02-12,card,35.76,Cappuccino
+2025-02-12,card,35.76,Hot Chocolate
+2025-02-12,card,25.96,Americano
+2025-02-12,card,35.76,Cocoa
+2025-02-12,card,35.76,Latte
+2025-02-12,card,25.96,Americano
+2025-02-12,card,35.76,Hot Chocolate
+2025-02-12,card,25.96,Americano
+2025-02-12,cash,27.0,Chocolate with milk
+2025-02-12,card,35.76,Cocoa
+2025-02-12,card,35.76,Latte
+2025-02-13,card,25.96,Americano
+2025-02-13,card,21.06,Espresso
+2025-02-13,card,35.76,Cocoa
+2025-02-13,card,30.86,Americano with Milk
+2025-02-13,card,35.76,Latte
+2025-02-13,card,30.86,Americano with Milk
+2025-02-13,card,30.86,Americano with Milk
+2025-02-13,card,35.76,Latte
+2025-02-13,card,35.76,Cappuccino
+2025-02-13,card,30.86,Americano with Milk
+2025-02-13,card,25.96,Americano
+2025-02-13,card,30.86,Americano with Milk
+2025-02-13,card,25.96,Americano
+2025-02-13,card,25.0,Americano with milk
+2025-02-13,card,30.0,Cappuccino
+2025-02-13,card,33.0,Latte
+2025-02-13,card,32.0,Double espresso with milk
+2025-02-14,card,35.76,Cocoa
+2025-02-14,card,35.76,Cappuccino
+2025-02-14,card,35.76,Latte
+2025-02-14,card,25.96,Americano
+2025-02-14,card,35.76,Cappuccino
+2025-02-14,card,30.86,Americano with Milk
+2025-02-14,card,21.06,Espresso
+2025-02-14,card,25.96,Americano
+2025-02-14,card,21.06,Espresso
+2025-02-14,card,30.86,Americano with Milk
+2025-02-14,card,20.0,Espresso
+2025-02-14,card,35.76,Hot Chocolate
+2025-02-14,cash,20.0,Espresso
+2025-02-14,card,20.0,Espresso
+2025-02-14,cash,20.0,Espresso
+2025-02-14,card,28.0,Double Irish whiskey
+2025-02-14,card,35.76,Hot Chocolate
+2025-02-14,card,28.0,Double Irish whiskey
+2025-02-14,card,28.0,Super chocolate
+2025-02-14,card,29.0,Coffee with Irish whiskey
+2025-02-14,cash,27.0,Chocolate with milk
+2025-02-14,card,25.96,Americano
+2025-02-14,card,25.96,Americano
+2025-02-14,card,35.76,Cappuccino
+2025-02-15,card,35.76,Cappuccino
+2025-02-15,card,35.76,Cappuccino
+2025-02-15,card,25.96,Americano
+2025-02-15,card,35.76,Hot Chocolate
+2025-02-15,card,35.76,Hot Chocolate
+2025-02-15,card,35.76,Cappuccino
+2025-02-15,card,30.86,Americano with Milk
+2025-02-15,cash,27.0,Irish whiskey with milk
+2025-02-15,card,25.96,Americano
+2025-02-15,card,25.0,Americano
+2025-02-15,card,30.86,Americano with Milk
+2025-02-15,card,27.0,Double vanilla
+2025-02-15,cash,30.0,Mochaccino
+2025-02-15,card,15.0,Tea
+2025-02-15,card,25.0,Americano with milk
+2025-02-15,card,25.0,Americano with milk
+2025-02-16,card,30.86,Americano with Milk
+2025-02-16,card,35.76,Hot Chocolate
+2025-02-16,card,25.96,Americano
+2025-02-16,card,35.76,Hot Chocolate
+2025-02-16,card,30.86,Americano with Milk
+2025-02-16,card,25.96,Americano
+2025-02-16,card,25.96,Americano
+2025-02-16,card,35.76,Latte
+2025-02-16,card,35.76,Hot Chocolate
+2025-02-16,card,30.86,Americano with Milk
+2025-02-16,card,28.0,Caramel coffee
+2025-02-16,card,30.0,Cappuccino
+2025-02-16,card,29.0,Coffee with Irish whiskey
+2025-02-16,card,33.0,Latte
+2025-02-16,cash,20.0,Double vanilla
+2025-02-16,cash,25.0,Irish whiskey
+2025-02-16,card,28.0,Caramel with chocolate
+2025-02-16,card,33.0,Latte
+2025-02-17,card,30.0,Cappuccino
+2025-02-17,card,28.0,Caramel with Irish whiskey
+2025-02-17,cash,29.0,Coffee with Irish whiskey
+2025-02-17,cash,20.0,Espresso
+2025-02-17,cash,25.0,Americano with milk
+2025-02-17,card,25.96,Americano
+2025-02-17,card,20.0,Espresso
+2025-02-17,cash,25.0,Americano with milk
+2025-02-17,cash,30.0,Cappuccino
+2025-02-17,card,35.76,Cappuccino
+2025-02-17,card,35.76,Cappuccino
+2025-02-17,card,25.96,Americano
+2025-02-17,card,30.86,Americano with Milk
+2025-02-17,card,35.76,Hot Chocolate
+2025-02-17,card,30.86,Americano with Milk
+2025-02-17,card,25.96,Americano
+2025-02-17,card,30.86,Americano with Milk
+2025-02-17,card,30.86,Americano with Milk
+2025-02-17,card,21.06,Espresso
+2025-02-17,card,35.76,Latte
+2025-02-17,card,35.76,Latte
+2025-02-17,card,21.06,Espresso
+2025-02-17,card,25.96,Americano
+2025-02-17,card,30.86,Americano with Milk
+2025-02-17,card,25.96,Americano
+2025-02-17,card,35.76,Latte
+2025-02-17,card,25.96,Americano
+2025-02-17,card,25.96,Americano
+2025-02-18,card,25.0,Americano with milk
+2025-02-18,card,30.0,Cappuccino
+2025-02-18,card,25.0,Americano with milk
+2025-02-18,cash,28.0,Vanilla with Irish whiskey
+2025-02-18,card,30.86,Americano with Milk
+2025-02-18,card,35.76,Cocoa
+2025-02-18,card,25.96,Americano
+2025-02-18,card,30.86,Americano with Milk
+2025-02-18,card,30.86,Americano with Milk
+2025-02-18,card,35.76,Cocoa
+2025-02-18,card,25.96,Americano
+2025-02-18,card,25.96,Americano
+2025-02-18,card,30.86,Americano with Milk
+2025-02-18,card,25.96,Americano
+2025-02-18,card,25.96,Americano
+2025-02-18,card,35.76,Hot Chocolate
+2025-02-18,card,35.76,Cocoa
+2025-02-18,card,21.06,Espresso
+2025-02-18,card,35.76,Cocoa
+2025-02-18,card,35.76,Cocoa
+2025-02-18,card,30.86,Americano with Milk
+2025-02-18,card,35.76,Hot Chocolate
+2025-02-19,card,35.76,Cappuccino
+2025-02-19,card,30.86,Americano with Milk
+2025-02-19,card,30.86,Americano with Milk
+2025-02-19,cash,25.0,Americano
+2025-02-19,card,20.0,Espresso
+2025-02-19,cash,25.0,Americano with milk
+2025-02-19,card,25.0,Americano
+2025-02-19,card,35.76,Cappuccino
+2025-02-19,card,35.76,Cocoa
+2025-02-19,card,35.76,Cocoa
+2025-02-19,card,25.96,Americano
+2025-02-19,card,35.76,Hot Chocolate
+2025-02-19,card,25.96,Americano
+2025-02-19,card,35.76,Cappuccino
+2025-02-19,card,25.96,Americano
+2025-02-19,card,25.96,Americano
+2025-02-19,card,35.76,Cappuccino
+2025-02-19,card,25.96,Americano
+2025-02-19,card,35.76,Hot Chocolate
+2025-02-19,card,35.76,Latte
+2025-02-19,card,25.96,Americano
+2025-02-19,card,35.76,Cappuccino
+2025-02-19,card,35.76,Latte
+2025-02-19,card,35.76,Cocoa
+2025-02-20,card,30.86,Americano with Milk
+2025-02-20,card,25.96,Americano
+2025-02-20,card,25.96,Americano
+2025-02-20,card,25.96,Americano
+2025-02-20,card,25.96,Americano
+2025-02-20,card,25.96,Americano
+2025-02-20,card,35.76,Cappuccino
+2025-02-20,card,21.06,Espresso
+2025-02-20,card,35.76,Hot Chocolate
+2025-02-20,card,35.76,Latte
+2025-02-20,card,25.96,Americano
+2025-02-20,card,35.76,Cappuccino
+2025-02-20,card,30.0,Cappuccino
+2025-02-20,card,35.76,Cappuccino
+2025-02-20,card,35.76,Cappuccino
+2025-02-20,card,25.96,Americano
+2025-02-20,card,25.96,Americano
+2025-02-20,card,28.0,Double Irish whiskey
+2025-02-20,card,35.76,Hot Chocolate
+2025-02-20,card,35.76,Latte
+2025-02-20,cash,20.0,Espresso
+2025-02-20,card,35.76,Cocoa
+2025-02-20,cash,30.0,Mochaccino
+2025-02-20,card,29.0,Coffee with Irish whiskey
+2025-02-20,cash,25.0,Americano with milk
+2025-02-20,card,33.0,Latte
+2025-02-20,card,25.0,Chocolate
+2025-02-20,card,25.0,Americano with milk
+2025-02-20,cash,25.0,Americano with milk
+2025-02-20,card,30.0,Cappuccino
+2025-02-21,card,35.76,Cappuccino
+2025-02-21,card,25.96,Americano
+2025-02-21,card,35.76,Hot Chocolate
+2025-02-21,card,35.76,Cappuccino
+2025-02-21,card,35.76,Latte
+2025-02-21,card,30.86,Americano with Milk
+2025-02-21,card,25.96,Americano
+2025-02-21,card,25.96,Americano
+2025-02-21,card,35.76,Latte
+2025-02-21,card,21.06,Espresso
+2025-02-21,card,35.76,Cappuccino
+2025-02-21,card,25.96,Americano
+2025-02-21,card,25.96,Americano
+2025-02-21,card,25.96,Americano
+2025-02-21,card,25.96,Americano
+2025-02-21,card,35.76,Cocoa
+2025-02-21,card,25.0,Irish whiskey
+2025-02-21,card,35.76,Cocoa
+2025-02-21,card,28.0,Double Irish whiskey
+2025-02-21,cash,25.0,Irish whiskey
+2025-02-21,card,30.0,Mochaccino
+2025-02-21,card,25.0,Americano with milk
+2025-02-21,card,35.76,Latte
+2025-02-21,cash,20.0,Espresso
+2025-02-21,card,33.0,Latte
+2025-02-21,cash,25.0,Americano with milk
+2025-02-21,card,33.0,Latte
+2025-02-21,cash,15.0,Tea
+2025-02-21,card,25.96,Americano
+2025-02-21,card,25.96,Americano
+2025-02-21,card,25.96,Americano
+2025-02-21,card,35.76,Cocoa
+2025-02-21,cash,25.0,Americano with milk
+2025-02-21,card,25.96,Americano
+2025-02-22,card,35.76,Hot Chocolate
+2025-02-22,card,25.96,Americano
+2025-02-22,card,21.06,Espresso
+2025-02-22,card,30.86,Americano with Milk
+2025-02-22,card,25.96,Americano
+2025-02-22,card,29.0,Coffee with Irish whiskey
+2025-02-22,card,25.0,Americano with milk
+2025-02-22,card,28.0,Caramel with chocolate
+2025-02-22,card,33.0,Latte
+2025-02-23,card,28.0,Double Irish whiskey
+2025-02-23,card,25.0,Americano
+2025-02-23,card,25.0,Americano with milk
+2025-02-23,cash,28.0,Double Irish whiskey
+2025-02-23,card,30.86,Americano with Milk
+2025-02-23,card,30.86,Americano with Milk
+2025-02-23,card,30.86,Americano with Milk
+2025-02-23,card,35.76,Cappuccino
+2025-02-23,card,35.76,Cocoa
+2025-02-23,card,25.96,Americano
+2025-02-24,card,35.76,Latte
+2025-02-24,card,30.86,Americano with Milk
+2025-02-24,card,25.96,Americano
+2025-02-24,card,30.86,Americano with Milk
+2025-02-24,card,30.86,Americano with Milk
+2025-02-24,card,25.96,Americano
+2025-02-24,card,35.76,Hot Chocolate
+2025-02-24,card,35.76,Cocoa
+2025-02-24,card,35.76,Latte
+2025-02-24,card,35.76,Cappuccino
+2025-02-24,card,30.86,Americano with Milk
+2025-02-24,card,35.76,Latte
+2025-02-24,card,30.86,Americano with Milk
+2025-02-24,card,30.86,Americano with Milk
+2025-02-24,card,25.96,Americano
+2025-02-24,card,35.76,Latte
+2025-02-24,card,35.76,Cocoa
+2025-02-24,card,30.86,Americano with Milk
+2025-02-24,card,35.76,Cocoa
+2025-02-24,card,35.76,Cocoa
+2025-02-24,card,35.76,Latte
+2025-02-24,card,35.76,Cocoa
+2025-02-24,card,15.0,Tea
+2025-02-24,card,28.0,Caramel with Irish whiskey
+2025-02-24,card,28.0,Caramel with Irish whiskey
+2025-02-24,card,25.0,Caramel with milk
+2025-02-25,card,25.96,Americano
+2025-02-25,card,30.86,Americano with Milk
+2025-02-25,card,30.86,Americano with Milk
+2025-02-25,card,21.06,Espresso
+2025-02-25,card,25.96,Americano
+2025-02-25,card,25.96,Americano
+2025-02-25,card,35.76,Cappuccino
+2025-02-25,card,35.76,Cappuccino
+2025-02-25,card,25.96,Americano
+2025-02-25,card,35.76,Cocoa
+2025-02-25,card,35.76,Cappuccino
+2025-02-25,card,25.96,Americano
+2025-02-25,card,29.0,Coffee with Irish whiskey
+2025-02-25,card,33.0,Latte
+2025-02-26,card,25.96,Americano
+2025-02-26,card,35.76,Cappuccino
+2025-02-26,card,35.76,Latte
+2025-02-26,card,30.86,Americano with Milk
+2025-02-26,card,35.76,Latte
+2025-02-26,card,35.76,Hot Chocolate
+2025-02-26,card,35.76,Latte
+2025-02-26,card,25.96,Americano
+2025-02-26,card,25.96,Cortado
+2025-02-26,card,25.96,Americano
+2025-02-26,card,30.86,Americano with Milk
+2025-02-26,card,25.96,Americano
+2025-02-26,card,25.96,Americano
+2025-02-26,card,35.76,Latte
+2025-02-26,card,35.76,Cocoa
+2025-02-26,card,35.76,Hot Chocolate
+2025-02-26,card,30.86,Americano with Milk
+2025-02-26,card,27.0,Irish whiskey with milk
+2025-02-26,card,35.76,Hot Chocolate
+2025-02-26,card,15.0,Tea
+2025-02-26,card,33.0,Latte
+2025-02-26,cash,25.0,Americano with milk
+2025-02-26,card,15.0,Tea
+2025-02-26,cash,15.0,Tea
+2025-02-26,card,15.0,Tea
+2025-02-26,cash,25.0,Irish whiskey
+2025-02-26,card,29.0,Coffee with Irish whiskey
+2025-02-26,card,15.0,Tea
+2025-02-26,card,28.0,Caramel with chocolate
+2025-02-26,card,25.0,Caramel with milk
+2025-02-26,cash,20.0,Espresso
+2025-02-26,card,27.0,Irish whiskey with milk
+2025-02-26,cash,33.0,Latte
+2025-02-26,card,33.0,Latte
+2025-02-27,card,25.96,Americano
+2025-02-27,card,35.76,Cocoa
+2025-02-27,card,35.76,Latte
+2025-02-27,card,25.96,Americano
+2025-02-27,card,35.76,Cappuccino
+2025-02-27,card,21.06,Espresso
+2025-02-27,card,35.76,Cappuccino
+2025-02-27,card,35.76,Cappuccino
+2025-02-27,card,35.76,Cocoa
+2025-02-27,card,35.76,Latte
+2025-02-27,card,25.96,Americano
+2025-02-27,card,35.76,Cocoa
+2025-02-27,card,25.96,Americano
+2025-02-27,card,35.76,Latte
+2025-02-27,card,25.96,Americano
+2025-02-27,card,35.76,Latte
+2025-02-27,card,35.76,Cocoa
+2025-02-27,cash,25.0,Americano with milk
+2025-02-27,cash,15.0,Tea
+2025-02-27,card,35.76,Cappuccino
+2025-02-27,card,30.86,Americano with Milk
+2025-02-28,card,28.0,Super chocolate
+2025-02-28,card,28.0,Double Irish whiskey
+2025-02-28,cash,20.0,Espresso
+2025-02-28,card,25.96,Americano
+2025-02-28,cash,33.0,Latte
+2025-02-28,card,25.0,Americano with milk
+2025-02-28,cash,30.0,Cappuccino
+2025-02-28,cash,33.0,Latte
+2025-02-28,cash,25.0,Americano with milk
+2025-02-28,card,25.0,Americano with milk
+2025-02-28,card,25.96,Americano
+2025-02-28,card,30.86,Americano with Milk
+2025-02-28,card,35.76,Cappuccino
+2025-02-28,card,21.06,Espresso
+2025-02-28,card,30.86,Americano with Milk
+2025-02-28,card,25.96,Americano
+2025-02-28,card,30.86,Americano with Milk
+2025-02-28,card,25.96,Americano
+2025-02-28,card,35.76,Latte
+2025-02-28,card,30.86,Americano with Milk
+2025-02-28,card,35.76,Latte
+2025-02-28,card,25.96,Americano
+2025-02-28,card,25.96,Americano
+2025-02-28,card,25.96,Americano
+2025-02-28,card,35.76,Latte
+2025-02-28,card,35.76,Cocoa
+2025-03-01,card,25.96,Americano
+2025-03-01,card,27.0,Irish whiskey with milk
+2025-03-01,card,27.0,Chocolate with milk
+2025-03-01,cash,15.0,Tea
+2025-03-01,cash,25.0,Americano with milk
+2025-03-01,card,30.86,Americano with Milk
+2025-03-01,card,35.76,Cappuccino
+2025-03-01,cash,30.0,Cappuccino
+2025-03-01,card,35.76,Latte
+2025-03-01,card,35.76,Cappuccino
+2025-03-01,card,25.96,Americano
+2025-03-01,card,25.96,Americano
+2025-03-01,card,25.96,Americano
+2025-03-02,card,35.76,Cocoa
+2025-03-02,card,30.0,Cappuccino
+2025-03-02,card,28.0,Caramel coffee
+2025-03-02,cash,28.0,Coffee with chocolate
+2025-03-02,card,25.0,Irish whiskey
+2025-03-02,cash,28.0,Super chocolate
+2025-03-02,card,27.0,Chocolate with milk
+2025-03-02,card,27.0,Irish whiskey with milk
+2025-03-02,cash,25.0,Caramel with milk
+2025-03-02,card,30.86,Americano with Milk
+2025-03-02,card,25.96,Americano
+2025-03-02,card,30.86,Americano with Milk
+2025-03-02,card,25.96,Americano
+2025-03-02,card,35.76,Latte
+2025-03-02,card,25.0,Americano with milk
+2025-03-02,card,33.0,Latte
+2025-03-02,cash,30.0,Cappuccino
+2025-03-03,card,35.76,Latte
+2025-03-03,card,35.76,Cocoa
+2025-03-03,card,35.76,Cappuccino
+2025-03-03,card,30.86,Americano with Milk
+2025-03-03,card,35.76,Hot Chocolate
+2025-03-03,card,35.76,Latte
+2025-03-03,card,25.96,Americano
+2025-03-03,card,25.96,Americano
+2025-03-03,card,30.86,Americano with Milk
+2025-03-03,card,25.96,Americano
+2025-03-03,card,35.76,Cappuccino
+2025-03-03,card,35.76,Hot Chocolate
+2025-03-03,card,35.76,Cocoa
+2025-03-03,card,35.76,Latte
+2025-03-03,card,35.76,Hot Chocolate
+2025-03-03,card,35.76,Cappuccino
+2025-03-03,card,35.76,Cappuccino
+2025-03-03,card,35.76,Latte
+2025-03-03,card,25.96,Americano
+2025-03-03,card,35.76,Hot Chocolate
+2025-03-03,card,35.76,Hot Chocolate
+2025-03-03,card,35.76,Latte
+2025-03-03,card,28.0,Caramel with Irish whiskey
+2025-03-03,card,25.0,Americano with milk
+2025-03-03,card,27.0,Irish with chocolate
+2025-03-03,card,25.0,Irish whiskey
+2025-03-03,card,25.0,Irish whiskey
+2025-03-03,card,25.0,Americano with milk
+2025-03-04,card,25.96,Americano
+2025-03-04,card,35.76,Latte
+2025-03-04,card,35.76,Cocoa
+2025-03-04,card,25.96,Americano
+2025-03-04,card,35.76,Cocoa
+2025-03-04,card,25.96,Americano
+2025-03-04,card,35.76,Latte
+2025-03-04,card,30.86,Americano with Milk
+2025-03-04,card,25.96,Americano
+2025-03-04,card,25.96,Americano
+2025-03-04,card,25.96,Americano
+2025-03-04,card,30.86,Americano with Milk
+2025-03-04,card,25.96,Americano
+2025-03-04,card,35.76,Cappuccino
+2025-03-04,card,25.96,Americano
+2025-03-04,card,25.96,Americano
+2025-03-05,card,35.76,Latte
+2025-03-05,card,25.96,Americano
+2025-03-05,card,30.86,Americano with Milk
+2025-03-05,card,25.96,Americano
+2025-03-05,card,35.76,Cocoa
+2025-03-05,card,25.96,Americano
+2025-03-05,card,35.76,Cappuccino
+2025-03-05,card,35.76,Latte
+2025-03-05,card,25.96,Americano
+2025-03-05,card,35.76,Cocoa
+2025-03-05,card,35.76,Cappuccino
+2025-03-05,card,35.76,Hot Chocolate
+2025-03-05,card,25.96,Americano
+2025-03-05,card,33.0,Latte
+2025-03-05,cash,20.0,Espresso
+2025-03-05,card,27.0,Vanilla coffee
+2025-03-05,card,30.86,Americano with Milk
+2025-03-05,card,25.0,Americano
+2025-03-05,cash,25.0,Americano
+2025-03-05,card,25.0,Americano with milk
+2025-03-05,cash,27.0,Irish whiskey with milk
+2025-03-05,card,30.86,Americano with Milk
+2025-03-05,card,35.76,Latte
+2025-03-05,card,35.76,Cappuccino
+2025-03-05,card,25.0,Irish whiskey
+2025-03-05,card,25.96,Americano
+2025-03-05,card,21.06,Espresso
+2025-03-06,card,25.96,Americano
+2025-03-06,card,30.86,Americano with Milk
+2025-03-06,card,35.76,Cocoa
+2025-03-06,card,30.86,Americano with Milk
+2025-03-06,card,35.76,Latte
+2025-03-06,card,35.76,Cappuccino
+2025-03-06,card,35.76,Cappuccino
+2025-03-06,card,25.96,Americano
+2025-03-06,card,30.86,Americano with Milk
+2025-03-06,card,21.06,Espresso
+2025-03-06,card,35.76,Hot Chocolate
+2025-03-06,card,25.96,Americano
+2025-03-07,card,25.96,Americano
+2025-03-07,card,35.76,Cocoa
+2025-03-07,card,35.76,Cappuccino
+2025-03-07,card,27.0,Double ristretto
+2025-03-07,card,25.0,Americano with milk
+2025-03-07,card,27.0,Irish with chocolate
+2025-03-07,card,25.0,Irish whiskey
+2025-03-07,card,35.76,Hot Chocolate
+2025-03-07,card,25.96,Americano
+2025-03-07,card,25.96,Americano
+2025-03-07,cash,27.0,Chocolate with milk
+2025-03-07,card,30.86,Americano with Milk
+2025-03-07,card,35.76,Cocoa
+2025-03-07,card,35.76,Cappuccino
+2025-03-07,card,35.76,Latte
+2025-03-07,card,35.76,Latte
+2025-03-07,card,35.76,Latte
+2025-03-07,card,35.76,Hot Chocolate
+2025-03-07,card,25.96,Americano
+2025-03-07,card,35.76,Hot Chocolate
+2025-03-07,card,30.86,Americano with Milk
+2025-03-07,card,30.86,Americano with Milk
+2025-03-08,card,25.96,Americano
+2025-03-08,card,30.86,Americano with Milk
+2025-03-08,card,25.96,Americano
+2025-03-08,card,30.86,Americano with Milk
+2025-03-08,card,25.96,Americano
+2025-03-08,card,35.76,Cappuccino
+2025-03-08,card,25.96,Americano
+2025-03-08,card,30.86,Americano with Milk
+2025-03-08,card,20.0,Espresso
+2025-03-08,card,30.0,Hot milkshake
+2025-03-08,card,28.0,Caramel with chocolate
+2025-03-08,card,25.0,Americano with milk
+2025-03-09,card,21.06,Espresso
+2025-03-09,card,30.86,Americano with Milk
+2025-03-09,card,35.76,Cappuccino
+2025-03-09,card,25.96,Americano
+2025-03-09,card,35.76,Cappuccino
+2025-03-09,card,35.76,Cocoa
+2025-03-09,card,25.96,Americano
+2025-03-09,card,25.0,Americano
+2025-03-09,card,25.0,Americano
+2025-03-09,card,28.0,Vanilla with Irish whiskey
+2025-03-09,cash,27.0,Chocolate with milk
+2025-03-09,card,30.86,Americano with Milk
+2025-03-09,card,25.0,Americano
+2025-03-09,card,30.0,Mochaccino
+2025-03-09,cash,25.0,Americano
+2025-03-09,card,27.0,Irish whiskey with milk
+2025-03-10,card,35.76,Hot Chocolate
+2025-03-10,card,25.96,Americano
+2025-03-10,card,35.76,Latte
+2025-03-10,card,30.86,Americano with Milk
+2025-03-10,card,35.76,Hot Chocolate
+2025-03-10,card,35.76,Cocoa
+2025-03-10,card,35.76,Hot Chocolate
+2025-03-10,card,25.96,Americano
+2025-03-10,card,35.76,Latte
+2025-03-10,card,30.86,Americano with Milk
+2025-03-10,card,25.96,Americano
+2025-03-10,card,35.76,Latte
+2025-03-10,card,30.86,Americano with Milk
+2025-03-10,card,35.76,Latte
+2025-03-10,card,25.96,Americano
+2025-03-10,card,35.76,Cappuccino
+2025-03-10,card,35.76,Latte
+2025-03-10,cash,25.0,Americano
+2025-03-10,card,27.0,Irish whiskey with milk
+2025-03-10,card,27.0,Irish whiskey with milk
+2025-03-10,card,30.0,Cappuccino
+2025-03-11,card,30.86,Americano with Milk
+2025-03-11,card,35.76,Cappuccino
+2025-03-11,card,35.76,Hot Chocolate
+2025-03-11,card,35.76,Cocoa
+2025-03-11,card,35.76,Hot Chocolate
+2025-03-11,card,25.96,Americano
+2025-03-11,card,25.96,Americano
+2025-03-11,card,35.76,Latte
+2025-03-11,card,35.76,Cappuccino
+2025-03-11,card,25.96,Americano
+2025-03-11,card,25.96,Americano
+2025-03-11,card,35.76,Latte
+2025-03-11,card,35.76,Cocoa
+2025-03-11,card,30.0,Cappuccino
+2025-03-11,cash,27.0,Chocolate with milk
+2025-03-11,cash,28.0,Super chocolate
+2025-03-11,card,27.0,Irish with chocolate
+2025-03-11,card,27.0,Irish with chocolate
+2025-03-12,card,35.76,Cappuccino
+2025-03-12,card,25.96,Americano
+2025-03-12,card,35.76,Cocoa
+2025-03-12,card,25.96,Americano
+2025-03-12,card,35.76,Cappuccino
+2025-03-12,card,25.96,Americano
+2025-03-12,card,35.76,Latte
+2025-03-12,card,27.0,Irish whiskey with milk
+2025-03-12,card,28.0,Double Irish whiskey
+2025-03-12,card,35.76,Latte
+2025-03-12,card,25.0,Americano with milk
+2025-03-12,card,25.0,Americano with milk
+2025-03-12,card,27.0,Irish whiskey with milk
+2025-03-12,card,25.0,Americano
+2025-03-12,card,33.0,Latte
+2025-03-12,card,35.76,Latte
+2025-03-12,card,35.76,Latte
+2025-03-12,card,35.76,Hot Chocolate
+2025-03-12,card,25.96,Americano
+2025-03-12,card,25.96,Americano
+2025-03-12,card,25.96,Americano
+2025-03-12,card,35.76,Cappuccino
+2025-03-12,card,30.86,Americano with Milk
+2025-03-12,card,25.0,Americano with milk
+2025-03-12,card,35.76,Cocoa
+2025-03-13,card,30.86,Americano with Milk
+2025-03-13,card,30.86,Americano with Milk
+2025-03-13,card,35.76,Latte
+2025-03-13,card,21.06,Espresso
+2025-03-13,card,25.96,Americano
+2025-03-13,card,30.86,Americano with Milk
+2025-03-13,card,35.76,Latte
+2025-03-13,card,30.86,Americano with Milk
+2025-03-13,card,35.76,Cappuccino
+2025-03-13,card,25.96,Americano
+2025-03-13,card,25.96,Americano
+2025-03-13,card,35.76,Cappuccino
+2025-03-14,card,25.96,Americano
+2025-03-14,card,27.0,Irish whiskey with milk
+2025-03-14,card,33.0,Latte
+2025-03-14,card,28.0,Double Irish whiskey
+2025-03-14,card,25.0,Americano with milk
+2025-03-14,card,35.76,Cocoa
+2025-03-14,card,35.76,Cocoa
+2025-03-14,card,35.76,Cocoa
+2025-03-14,card,25.96,Americano
+2025-03-14,card,25.96,Americano
+2025-03-14,card,35.76,Latte
+2025-03-14,card,35.76,Latte
+2025-03-14,card,25.96,Americano
+2025-03-14,card,25.96,Americano
+2025-03-14,card,35.76,Latte
+2025-03-14,card,25.96,Americano
+2025-03-14,card,25.96,Americano
+2025-03-14,card,25.96,Americano
+2025-03-14,card,35.76,Latte
+2025-03-14,card,35.76,Latte
+2025-03-14,card,30.86,Americano with Milk
+2025-03-14,card,35.76,Latte
+2025-03-14,card,25.96,Americano
+2025-03-14,card,25.96,Americano
+2025-03-14,card,35.76,Latte
+2025-03-14,card,35.76,Cappuccino
+2025-03-14,card,21.06,Espresso
+2025-03-15,card,25.0,Irish whiskey
+2025-03-15,card,33.0,Latte
+2025-03-15,card,25.0,Irish whiskey
+2025-03-15,card,25.0,Irish whiskey
+2025-03-15,card,27.0,Chocolate with milk
+2025-03-15,card,28.0,Caramel with Irish whiskey
+2025-03-15,card,30.0,Cappuccino
+2025-03-15,card,35.76,Cappuccino
+2025-03-15,card,25.96,Americano
+2025-03-15,card,35.76,Cappuccino
+2025-03-15,card,30.86,Americano with Milk
+2025-03-15,card,35.76,Cappuccino
+2025-03-15,card,30.86,Americano with Milk
+2025-03-15,card,20.0,Espresso
+2025-03-15,card,25.0,Americano with milk
+2025-03-15,card,15.0,Tea
+2025-03-15,card,30.86,Americano with Milk
+2025-03-15,card,27.0,Irish whiskey with milk
+2025-03-16,card,25.0,Americano with milk
+2025-03-16,card,35.76,Latte
+2025-03-16,card,35.76,Hot Chocolate
+2025-03-16,card,25.96,Americano
+2025-03-16,card,30.86,Americano with Milk
+2025-03-16,card,35.76,Cappuccino
+2025-03-16,card,29.0,Coffee with Irish whiskey
+2025-03-16,cash,25.0,Americano with milk
+2025-03-16,card,25.0,Americano with milk
+2025-03-17,card,30.86,Americano with Milk
+2025-03-17,card,25.96,Americano
+2025-03-17,card,25.96,Americano
+2025-03-17,card,25.96,Americano
+2025-03-17,card,35.76,Cocoa
+2025-03-17,card,35.76,Latte
+2025-03-17,card,25.96,Americano
+2025-03-17,card,35.76,Latte
+2025-03-17,card,35.76,Latte
+2025-03-17,card,25.96,Americano
+2025-03-17,card,25.96,Americano
+2025-03-17,card,35.76,Cocoa
+2025-03-17,card,35.76,Cappuccino
+2025-03-17,card,29.0,Coffee with Irish whiskey
+2025-03-17,card,29.0,Coffee with Irish whiskey
+2025-03-17,card,33.0,Latte
+2025-03-17,card,25.0,Irish whiskey
+2025-03-17,card,29.0,Coffee with Irish whiskey
+2025-03-18,card,35.76,Cocoa
+2025-03-18,card,25.0,Irish whiskey
+2025-03-18,card,30.0,Chocolate with coffee
+2025-03-18,card,30.0,Chocolate with coffee
+2025-03-18,card,35.76,Latte
+2025-03-18,card,35.76,Cocoa
+2025-03-18,card,35.76,Cocoa
+2025-03-18,cash,28.0,Double Irish whiskey
+2025-03-18,card,35.76,Cocoa
+2025-03-18,card,35.76,Latte
+2025-03-18,card,25.96,Americano
+2025-03-18,card,35.76,Latte
+2025-03-18,card,25.96,Americano
+2025-03-18,card,30.86,Americano with Milk
+2025-03-18,card,35.76,Hot Chocolate
+2025-03-18,card,35.76,Hot Chocolate
+2025-03-18,card,25.96,Americano
+2025-03-18,card,35.76,Latte
+2025-03-18,card,30.86,Americano with Milk
+2025-03-18,card,30.86,Americano with Milk
+2025-03-18,card,21.06,Espresso
+2025-03-18,cash,20.0,Espresso
+2025-03-18,card,29.0,Coffee with Irish whiskey
+2025-03-19,card,27.0,Chocolate with milk
+2025-03-19,card,35.76,Hot Chocolate
+2025-03-19,card,35.76,Latte
+2025-03-19,card,25.96,Americano
+2025-03-19,card,25.96,Americano
+2025-03-19,card,35.76,Latte
+2025-03-19,card,25.96,Americano
+2025-03-19,card,35.76,Cappuccino
+2025-03-19,card,25.96,Americano
+2025-03-19,card,25.0,Irish whiskey
+2025-03-19,card,25.96,Americano
+2025-03-19,card,35.76,Latte
+2025-03-19,card,25.96,Americano
+2025-03-19,card,25.96,Americano
+2025-03-19,card,35.76,Cappuccino
+2025-03-19,card,35.76,Cocoa
+2025-03-19,card,25.96,Cortado
+2025-03-19,cash,33.0,Latte
+2025-03-19,cash,25.0,Double chocolate
+2025-03-19,cash,30.0,Mochaccino
+2025-03-19,card,30.86,Americano with Milk
+2025-03-19,card,21.06,Espresso
+2025-03-19,card,35.76,Cappuccino
+2025-03-19,card,30.86,Americano with Milk
+2025-03-19,card,21.06,Espresso
+2025-03-19,card,25.96,Americano
+2025-03-20,card,35.76,Cappuccino
+2025-03-20,card,35.76,Latte
+2025-03-20,card,35.76,Cappuccino
+2025-03-20,card,35.76,Cocoa
+2025-03-20,card,35.76,Hot Chocolate
+2025-03-20,card,33.0,Latte
+2025-03-20,card,25.96,Americano
+2025-03-20,card,25.0,Irish whiskey
+2025-03-20,card,25.96,Cortado
+2025-03-20,card,21.06,Espresso
+2025-03-20,card,25.96,Americano
+2025-03-20,card,25.96,Americano
+2025-03-20,card,25.96,Americano
+2025-03-20,card,25.96,Americano
+2025-03-20,card,25.96,Americano
+2025-03-20,card,25.96,Americano
+2025-03-20,card,30.86,Americano with Milk
+2025-03-20,cash,30.0,Chocolate with coffee
+2025-03-20,card,30.86,Americano with Milk
+2025-03-20,card,25.96,Americano
+2025-03-20,card,35.76,Cappuccino
+2025-03-20,card,30.86,Americano with Milk
+2025-03-20,card,35.76,Cappuccino
+2025-03-21,card,25.96,Americano
+2025-03-21,card,35.76,Latte
+2025-03-21,card,35.76,Cappuccino
+2025-03-21,card,35.76,Hot Chocolate
+2025-03-21,card,35.76,Latte
+2025-03-21,card,35.76,Latte
+2025-03-21,card,25.96,Americano
+2025-03-21,card,35.76,Cappuccino
+2025-03-21,card,25.0,Americano with milk
+2025-03-21,card,25.96,Americano
+2025-03-21,card,35.76,Latte
+2025-03-21,card,25.96,Americano
+2025-03-21,card,30.86,Americano with Milk
+2025-03-21,card,35.76,Cappuccino
+2025-03-21,card,25.96,Americano
+2025-03-21,card,25.96,Americano
+2025-03-21,card,25.96,Americano
+2025-03-21,card,30.86,Americano with Milk
+2025-03-21,card,35.76,Latte
+2025-03-21,card,35.76,Cappuccino
+2025-03-21,card,27.0,Chocolate with milk
+2025-03-21,card,25.0,Irish whiskey
+2025-03-21,card,35.76,Latte
+2025-03-21,card,28.0,Super chocolate
+2025-03-22,card,30.86,Americano with Milk
+2025-03-22,card,35.76,Latte
+2025-03-22,card,21.06,Espresso
+2025-03-22,card,30.86,Americano with Milk
+2025-03-22,card,25.96,Americano
+2025-03-22,card,35.76,Hot Chocolate
+2025-03-22,card,30.86,Americano with Milk
+2025-03-22,card,35.76,Cocoa
+2025-03-22,card,30.86,Americano with Milk
+2025-03-22,card,30.86,Americano with Milk
+2025-03-22,card,25.96,Americano
+2025-03-22,cash,25.0,Irish whiskey
+2025-03-22,card,27.0,Irish with chocolate
+2025-03-22,card,30.86,Americano with Milk
+2025-03-22,card,15.0,Tea
+2025-03-22,card,25.0,Irish whiskey
+2025-03-22,card,28.0,Caramel with Irish whiskey
+2025-03-22,cash,22.0,Caramel
+2025-03-22,card,25.0,Americano with milk
+2025-03-22,card,25.0,Americano with milk
+2025-03-22,card,29.0,Coffee with Irish whiskey
+2025-03-22,card,27.0,Irish whiskey with milk
+2025-03-23,card,35.76,Latte
+2025-03-23,card,35.76,Cocoa
+2025-03-23,card,35.76,Cocoa
+2025-03-23,card,25.96,Americano
+2025-03-23,card,28.0,Super chocolate
+2025-03-23,card,35.76,Cappuccino
+2025-03-23,card,28.0,Vanilla with Irish whiskey
+2025-03-23,cash,25.0,Irish whiskey
+2025-03-23,cash,25.0,Americano with milk
+2025-03-23,cash,30.0,Cappuccino
+2025-03-23,card,25.0,Irish whiskey
+2025-03-23,card,29.0,Coffee with Irish whiskey
+2025-03-23,card,35.76,Latte
